@@ -6,5 +6,8 @@ public class CommandLine {
 		System.out.println("Command line push try");
 		System.out.println("Command line push try");
 		System.out.println("Command line push try");
+		System.out.println("Command line push try");
+		System.out.println("Command line push try");
+		System.out.println("Command line push try");
 	}
 }
